@@ -1,10 +1,6 @@
+//MANCILLA GUTIÉRREZ EDGAR JESÚS
 import React from 'react';
 import {ActivityIndicator,StyleSheet,Text,View,Modal} from 'react-native';
-//Nombre: Olvera González Abraham
-//Grupo: TI02SM-18
-//Pantalla: Indicator
-
-
 function Indicator ({isVisible}) {
    
     return (
