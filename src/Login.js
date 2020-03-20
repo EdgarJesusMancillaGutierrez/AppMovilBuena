@@ -100,11 +100,6 @@ class Login extends Component{
                         navigation.navigate('Registro')}>
                     <Text>Registrate</Text>
                     </Button>
-                    <Button primary style = {misEstilos.boton1} 
-                    onPress ={() =>
-                        navigation.navigate('Conocenos')}>
-                    <Text>Conocenos</Text>
-                    </Button>
             </CardItem>
           </Card>
           
